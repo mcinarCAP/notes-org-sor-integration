@@ -1,42 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T19:24:59.640Z" agent="5.0 (X11)" etag="ToWMGE1wHzQebyWHcDrt" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T22:15:09.897Z" agent="5.0 (X11)" etag="15zL-EqomgHCg7WUvACY" version="20.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2062" dy="1109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--0" value="InstitutionsEjer (IE)&#xa;fdgdfgdf&#xa;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="220" y="60" width="160" height="160" as="geometry">
+          <mxGeometry x="220" y="60" width="160" height="50" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zkfFHV4jXpPFQw0GAbJ--1" value="Name" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="40" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="zkfFHV4jXpPFQw0GAbJ--2" value="Phone Number" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="66" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="zkfFHV4jXpPFQw0GAbJ--3" value="Email Address" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="92" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="zkfFHV4jXpPFQw0GAbJ--5" value="Purchase Parking Pass" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="118" width="160" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--6" value="SundhedsInstitution (SI)&#xa;eksempel&#xa;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="220" y="360" width="160" height="150" as="geometry">
+          <mxGeometry x="220" y="360" width="160" height="50" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="zkfFHV4jXpPFQw0GAbJ--7" value="Student Number" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--6" vertex="1">
-          <mxGeometry y="40" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="zkfFHV4jXpPFQw0GAbJ--8" value="Average Mark" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="zkfFHV4jXpPFQw0GAbJ--6" vertex="1">
-          <mxGeometry y="66" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="zkfFHV4jXpPFQw0GAbJ--10" value="Is Eligible To Enroll" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" parent="zkfFHV4jXpPFQw0GAbJ--6" vertex="1">
-          <mxGeometry y="92" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="zkfFHV4jXpPFQw0GAbJ--11" value="Get Seminars Taken" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--6" vertex="1">
-          <mxGeometry y="118" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--12" value="" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--6" target="zkfFHV4jXpPFQw0GAbJ--0" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -44,26 +20,60 @@
             <mxPoint x="200" y="203" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9vpMVU3OZuSM2iFLc5pq-1" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zkfFHV4jXpPFQw0GAbJ--12">
+        <mxCell id="9vpMVU3OZuSM2iFLc5pq-1" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1" vertex="1" connectable="0" parent="zkfFHV4jXpPFQw0GAbJ--12">
           <mxGeometry x="-0.85" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9vpMVU3OZuSM2iFLc5pq-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9vpMVU3OZuSM2iFLc5pq-2" target="zkfFHV4jXpPFQw0GAbJ--6">
+        <mxCell id="9vpMVU3OZuSM2iFLc5pq-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9vpMVU3OZuSM2iFLc5pq-2" target="zkfFHV4jXpPFQw0GAbJ--6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="564" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9vpMVU3OZuSM2iFLc5pq-2" value="Professor" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="670" width="160" height="70" as="geometry">
+        <mxCell id="9vpMVU3OZuSM2iFLc5pq-9" value="&lt;b&gt;*&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="9vpMVU3OZuSM2iFLc5pq-6">
+          <mxGeometry x="-0.7375" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9vpMVU3OZuSM2iFLc5pq-2" value="OrgannisationsEnhed (OE)&#xa;eksempel&#xa;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="670" width="160" height="60" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9vpMVU3OZuSM2iFLc5pq-3" value="Salary" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9vpMVU3OZuSM2iFLc5pq-2">
-          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        <mxCell id="9vpMVU3OZuSM2iFLc5pq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9vpMVU3OZuSM2iFLc5pq-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="705" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="790" />
+              <mxPoint x="480" y="790" />
+              <mxPoint x="480" y="705" />
+              <mxPoint x="380" y="705" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="9vpMVU3OZuSM2iFLc5pq-4" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="9vpMVU3OZuSM2iFLc5pq-2">
-          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        <mxCell id="9vpMVU3OZuSM2iFLc5pq-11" value="&lt;div&gt;Enum: SorType&lt;/div&gt;&lt;div&gt;&lt;hr&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;IE,&lt;/div&gt;&lt;div&gt;SI,&lt;/div&gt;&lt;div&gt;OE&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="350" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9vpMVU3OZuSM2iFLc5pq-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontSize=15;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="30" width="20" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="9vpMVU3OZuSM2iFLc5pq-24" value="&lt;div&gt;SorStatusType&lt;/div&gt;&lt;div&gt;&lt;hr&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Date: FromDate,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Date: ToDate,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Date: UpdatedAt,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Date: FirstFromDate&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1040" y="310" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="9vpMVU3OZuSM2iFLc5pq-25" value="FromDate: Kun output-felt. Input i feltet &lt;br&gt;bliver ignoreret. FromDate bliver default set til i dag+1 dag. Dvs. &lt;br&gt;ændringer gælder altid fra i morgen.&lt;br&gt;Under oprettelse (CreateSorEntity): Skal indeholde den første dag,&amp;nbsp; hvor enheden er aktiv.&amp;nbsp;&lt;br&gt;&lt;div&gt;Under rettelser (EditSorEntity), output: første dag ændring er aktiv/dato for dagen ændringen gælder fra.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ToDate: &lt;span style=&quot;color: rgb(23,43,77);&quot;&gt;Sidste dag enheden er aktiv. Kun output-felt. Input i feltet bliver ignoreret. Brug&amp;nbsp;&lt;/span&gt;&lt;a style=&quot;text-decoration: none;text-align: left;&quot; rel=&quot;nofollow&quot; href=&quot;https://www.nspop.dk/display/public/web/SORUS+-+Guide+til+anvendere#SORUS-Guidetilanvendere-CloseSorEntity&quot;&gt;CloseSorEntity()&lt;/a&gt;&lt;span style=&quot;color: rgb(23,43,77);&quot;&gt;&amp;nbsp;til at lukke en enhed.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(23,43,77);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;UpdatedAt: &lt;span style=&quot;color: rgb(23,43,77);&quot;&gt;Dato hvornår enheden sidst er opdateret. Kun output-felt. Input I feltet bliver ignoreret.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(23,43,77);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;FirstFromDate: Dato for hvornår enheden første gang var aktiv. Bliver kun brugt til output. Input i feltet bliver ignoreret.&lt;span style=&quot;color: rgb(23,43,77);&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(23,43,77);&quot;&gt;&lt;/span&gt; &lt;/div&gt;" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1040" y="480" width="850" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="9vpMVU3OZuSM2iFLc5pq-26" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AdressInformationType&lt;hr&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;String: AdditionalAddressInformationText,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;AddressPostalType: AddressPostal,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Boolean: InheritanceIndicator,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Boolean: SkipAddressValidation,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;String: MunicipalityCode,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;String: StreetCode,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;String: RegionName,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;String: RegionCode,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Decimal: CoordETRS89z32NMeasure,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Decimal: CoordETRS89z32EMeasure&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2000" y="220" width="310" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="9vpMVU3OZuSM2iFLc5pq-27" value="&lt;table role=&quot;grid&quot; class=&quot;wrapped confluenceTable stickyTableHeaders tablesorter tablesorter-default&quot;&gt;&lt;tbody aria-relevant=&quot;all&quot; aria-live=&quot;polite&quot;&gt;&lt;tr role=&quot;row&quot;&gt;&lt;td class=&quot;confluenceTd&quot;&gt;AdditionalAddressInformationText&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;Yderligere oplysninger om adressen&lt;/td&gt;&lt;/tr&gt;&lt;tr role=&quot;row&quot;&gt;&lt;td class=&quot;confluenceTd&quot;&gt;AddressPostal&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;Indeholder yderligere adresse informationer&lt;/td&gt;&lt;/tr&gt;&lt;tr role=&quot;row&quot;&gt;&lt;td class=&quot;confluenceTd&quot;&gt;InheritanceIndicator&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;Indikerer om adressen er nedarvet eller ej (&quot;TRUE&quot; = Ja)&lt;/td&gt;&lt;/tr&gt;&lt;tr role=&quot;row&quot;&gt;&lt;td class=&quot;confluenceTd&quot;&gt;SkipAddressValidation&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;Indikerer om den indtastede adresse skal valideres. Kun til input. Er altid sat til false i retur objektet.&lt;/td&gt;&lt;/tr&gt;&lt;tr role=&quot;row&quot;&gt;&lt;td class=&quot;confluenceTd&quot;&gt;MunicipalityCode&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot;&gt;Kommunekode&lt;/td&gt;&lt;/tr&gt;&lt;tr role=&quot;row&quot;&gt;&lt;td class=&quot;confluenceTd&quot; colspan=&quot;1&quot;&gt;StreetCode&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot; colspan=&quot;1&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot; colspan=&quot;1&quot;&gt;&lt;p&gt;Vejkodefeltet bruges kun til output - input i feltet bliver ignoreret.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr role=&quot;row&quot;&gt;&lt;td class=&quot;confluenceTd&quot; colspan=&quot;1&quot;&gt;RegionName&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot; colspan=&quot;1&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot; colspan=&quot;1&quot;&gt;Indeholder navnet på den valgte regionskode. Feltet bruges kun til output - input i feltet bliver ignoreret.&lt;/td&gt;&lt;/tr&gt;&lt;tr role=&quot;row&quot;&gt;&lt;td class=&quot;confluenceTd&quot; colspan=&quot;1&quot;&gt;RegionCode&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot; colspan=&quot;1&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot; colspan=&quot;1&quot;&gt;Feltet bruges ikke -&amp;nbsp;input i feltet bliver ignoreret.&lt;/td&gt;&lt;/tr&gt;&lt;tr role=&quot;row&quot;&gt;&lt;td class=&quot;confluenceTd&quot; colspan=&quot;1&quot;&gt;CoordETRS89z32NMeasure&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot; colspan=&quot;1&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot; colspan=&quot;1&quot;&gt;&lt;span style=&quot;color: rgb(23,43,77);&quot;&gt;Northing koordinater i UTM zone 32 (ETRS89, North). &lt;/span&gt;Feltet bruges kun til output -&amp;nbsp;input i feltet bliver ignoreret.&lt;/td&gt;&lt;/tr&gt;&lt;tr role=&quot;row&quot;&gt;&lt;td class=&quot;confluenceTd&quot; colspan=&quot;1&quot;&gt;CoordETRS89z32EMeasure&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot; colspan=&quot;1&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;td class=&quot;confluenceTd&quot; colspan=&quot;1&quot;&gt;&lt;span style=&quot;color: rgb(23,43,77);&quot;&gt;Easting koordinater i UTM zone 32 (ETRS89, East). &lt;/span&gt;Feltet bruges kun til output -&amp;nbsp;input i feltet bliver ignoreret.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1985" y="480" width="990" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="9vpMVU3OZuSM2iFLc5pq-28" value="AddessPostalType&lt;hr&gt;&lt;div align=&quot;left&quot;&gt;String: StreetName,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;String: StreetBuildingIdentifier,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;String: FloorIdentifier,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;String: SuiteIdentifier,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;String: PostOfficeBoxIdentifier,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;String: PostCodeIdentifier,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;String: DistrictName,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;a href=&quot;https://www.nspop.dk/display/public/web/SORUS+-+Guide+til+anvendere#SORUSGuidetilanvendere-CountryIdentificationCodeType&quot;&gt;CountryIdentificationCodeType&lt;/a&gt;: CountryIdentificationCode&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2940" y="280" width="430" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="9vpMVU3OZuSM2iFLc5pq-29" value="CountryIdentificationCodeType&lt;hr&gt;&lt;div align=&quot;left&quot;&gt;&lt;a href=&quot;https://www.nspop.dk/display/public/web/SORUS+-+Guide+til+anvendere#SORUSGuidetilanvendere-CountryIdentificationSchemeType&quot;&gt;CountryIdentificationSchemeType&lt;/a&gt;: Scheme&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2990" y="120" width="410" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
