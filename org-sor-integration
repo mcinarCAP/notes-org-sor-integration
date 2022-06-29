@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T11:39:38.440Z" agent="5.0 (X11)" etag="z5YpwvSlNMRPdxQ4QYeC" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-29T11:56:05.308Z" agent="5.0 (X11)" etag="a-atqCgFYA_uhGppbdto" version="20.0.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4264" dy="1922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5409" dy="2562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -166,16 +166,16 @@
           <mxGeometry y="90" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jt3FrtNt-olQavdpm7oS-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-430" y="2700" width="610" height="390" as="geometry" />
+          <mxGeometry x="-430" y="2700" width="610" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="jt3FrtNt-olQavdpm7oS-11" value="&lt;div&gt;Myndighed&lt;/div&gt;&lt;div&gt;&lt;i&gt;501&lt;/i&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-210" y="2620" width="170" height="90" as="geometry" />
+        <mxCell id="jt3FrtNt-olQavdpm7oS-11" value="&lt;div&gt;Myndighed&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-210" y="2640" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jt3FrtNt-olQavdpm7oS-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2440" y="2700" width="610" height="390" as="geometry" />
+          <mxGeometry x="2440" y="2700" width="610" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="jt3FrtNt-olQavdpm7oS-13" value="&lt;div&gt;Virksomhed&lt;/div&gt;&lt;div&gt;&lt;i&gt;29189757&lt;/i&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2655" y="2620" width="180" height="90" as="geometry" />
+        <mxCell id="jt3FrtNt-olQavdpm7oS-13" value="&lt;div&gt;Virksomhed&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2655" y="2640" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gc2pgTQGJVV-CSRoV0jI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gc2pgTQGJVV-CSRoV0jI-0" target="jt3FrtNt-olQavdpm7oS-8">
           <mxGeometry relative="1" as="geometry" />
@@ -225,6 +225,30 @@
         <mxCell id="gc2pgTQGJVV-CSRoV0jI-19" value="Enum: Gyldighed*(AKTIV/INAKTIV),&#xa;-&#xa;-" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontStyle=0" vertex="1" parent="gc2pgTQGJVV-CSRoV0jI-18">
           <mxGeometry y="30" width="369" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="BryDn_S29HBOlPp6mk95-0" value="Attributter" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-320" y="2800" width="369" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BryDn_S29HBOlPp6mk95-1" value="Varchar(4): MyndighedsKode *,&#xa;501&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontStyle=0" vertex="1" parent="BryDn_S29HBOlPp6mk95-0">
+          <mxGeometry y="30" width="369" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BryDn_S29HBOlPp6mk95-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;labelBackgroundColor=none;textOpacity=89;labelBorderColor=none;strokeColor=#b85450;opacity=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-620" y="2540" width="3800" height="2060" as="geometry" />
+        </mxCell>
+        <mxCell id="BryDn_S29HBOlPp6mk95-2" value="UUID: Id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-185.5" y="2720" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BryDn_S29HBOlPp6mk95-3" value="UUID: Id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2700" y="2730" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BryDn_S29HBOlPp6mk95-4" value="Attributter" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2490" y="2790" width="369" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BryDn_S29HBOlPp6mk95-5" value="Varchar(8): CVR-NummerTekst *,&#xa;29189757&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontStyle=0" vertex="1" parent="BryDn_S29HBOlPp6mk95-4">
+          <mxGeometry y="30" width="369" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BryDn_S29HBOlPp6mk95-8" value="Offentligt Forretnings Objekt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=45;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="2570" width="580" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -246,7 +270,7 @@
           <mxGeometry y="90" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BOn1pQnp4Og9I8ZbS8wp-5" value="&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;En registrering indeholder altid følgende generelle oplysninger:&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;- Registreringstidspunkt: &lt;i style=&quot;font-size: 15px;&quot;&gt;Registreringstidspunkt registreres automatisk i Fælleskommunalt Organisationssystem, når an-&lt;br style=&quot;font-size: 15px;&quot;&gt;vender sender et opdaterende request.&lt;/i&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;- BrugerReference: &lt;i style=&quot;font-size: 15px;&quot;&gt;På alle registreringer skal Brugerreference udfyldes med &amp;lt;NameID&amp;gt; som fremgår af den ud-&lt;br style=&quot;font-size: 15px;&quot;&gt;stedte token fra Secure Token Service (Fælleskommunal Adgangsstyring for systemer). Herun-&lt;br style=&quot;font-size: 15px;&quot;&gt;der et eksempel på et NameID.&lt;br style=&quot;font-size: 15px;&quot;&gt;SERIALNUMBER=CVR:26911745-FID:37973955 + CN=STS-Admin-01 (funktionscertifikat),&lt;br style=&quot;font-size: 15px;&quot;&gt;O=KMD A/S // CVR:26911745, C=DK&lt;/i&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;-Objektets livscyklus: &lt;i style=&quot;font-size: 15px;&quot;&gt;Hver gang der gemmes en ny registrering, opdateres objektets livscyklus automatisk afhængig&lt;br style=&quot;font-size: 15px;&quot;&gt;af hvilken operation, der foretages. Det er alene i operationerne Importer og Import, at livscy-&lt;br style=&quot;font-size: 15px;&quot;&gt;klus eksplicit skal angives i input. Livscyklus på et forretningsobjekt har betydning for operati-&lt;br style=&quot;font-size: 15px;&quot;&gt;onernes funktion, så derfor vises her en oversigt over de mulige livscyklusser.&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;&lt;i style=&quot;font-size: 15px;&quot;&gt;Den forretningsmæssige betydning af livscyklus er defineret i OIO standarden for sags- og do-&lt;br style=&quot;font-size: 15px;&quot;&gt;kumentområdet.&lt;br style=&quot;font-size: 15px;&quot;&gt;— Oprettet: Data i Fælleskommunalt Organisationssystem er master data.&lt;br style=&quot;font-size: 15px;&quot;&gt;— Importeret: Det er en kopi af data, som findes i Fælleskommunalt Organisationssystem;&lt;br style=&quot;font-size: 15px;&quot;&gt;master data findes i et andet system.&lt;br style=&quot;font-size: 15px;&quot;&gt;— Passiveret: Data kan stadig benyttes, men det vedligeholdes ikke.&lt;br style=&quot;font-size: 15px;&quot;&gt;— Slettet: Data er (logisk) slettet og ikke bør benyttes.&lt;/i&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="945" y="3840" width="810" height="410" as="geometry" />
+          <mxGeometry x="945" y="3890" width="810" height="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
