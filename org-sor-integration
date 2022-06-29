@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T13:08:53.370Z" agent="5.0 (X11)" etag="iPnyQ_vjqM_3vXffLaZY" version="20.0.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-29T13:13:04.119Z" agent="5.0 (X11)" etag="60mB3kCfunCv7B3V2Mjv" version="20.0.3" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2620" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -250,7 +250,7 @@
           <mxGeometry x="130" y="2570" width="580" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BryDn_S29HBOlPp6mk95-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="207" y="5020" width="1860" height="1050" as="geometry" />
+          <mxGeometry x="207" y="5020" width="1860" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="BryDn_S29HBOlPp6mk95-10" value="&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;OrganisationsEnhed (med rodnode)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;i&gt;Korsbæk Kommune&lt;/i&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=45;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="855" y="5005" width="500" height="120" as="geometry" />
@@ -284,14 +284,14 @@
             <mxRectangle x="1643" y="4100" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BryDn_S29HBOlPp6mk95-17" value="Organisation: Tilhører (0..1* Bemærk, at selvom systemet tillader, at en Organisation-&#xa;Enhed ikke er relateret til en Organisation, så skal denne&#xa;relation udfyldes for at data kan fremsøges.),&#xa;-&#xa;&#xa;OrganisationsEnhed: Overordnet (0..1* Alle OrganisationEnheder skal relateres til en overordnet&#xa;OrganisationEnhed, undtagen rod-noden.),&#xa;-&#xa;&#xa;Adresse: Adresser (0..n )&#xa;-&#xa;&#xa;KLE: EnhedsType (0..1, org.enhed kan relateres til en enhed, fx team eller afdeling)&#xa;-&#xa;&#xa;KLE: Opgaver (0..n, org.enhed kan relateres til en eller flere opgaver, fx. 00.01, &#xa;hvilket også er hiearkisk, således at 00.01.00 er et underemne i 00.01)&#xa;-&#xa;&#xa;OrganisationsFunktion: TilknyttedeFunktioner (0..n, Anvendes i Registrering - mønstre &#xa;&#39;Udbetalende Enhed&#39; og &#39;HenvendelsesSted&#39;)&#xa;-&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontStyle=0" vertex="1" parent="BryDn_S29HBOlPp6mk95-16">
+        <mxCell id="BryDn_S29HBOlPp6mk95-17" value="Organisation: Tilhører (0..1* Bemærk, at selvom systemet tillader, at en Organisation-&#xa;Enhed ikke er relateret til en Organisation, så skal denne&#xa;relation udfyldes for at data kan fremsøges.),&#xa;-&#xa;&#xa;OrganisationsEnhed: Overordnet (0..1* Alle OrganisationEnheder skal relateres til en overordnet&#xa;OrganisationEnhed, undtagen rod-noden.),&#xa;-&#xa;&#xa;Adresse: Adresser (0..n )&#xa;33614231-0bd0-457d-a85a-df0b9413d08e&#xa;&#xa;-&#xa;KLE: EnhedsType (0..1, org.enhed kan relateres til en enhed, fx team eller afdeling)&#xa;-&#xa;&#xa;KLE: Opgaver (0..n, org.enhed kan relateres til en eller flere opgaver, fx. 00.01, &#xa;hvilket også er hiearkisk, således at 00.01.00 er et underemne i 00.01)&#xa;-&#xa;&#xa;OrganisationsFunktion: TilknyttedeFunktioner (0..n, Anvendes i Registrering - mønstre &#xa;&#39;Udbetalende Enhed&#39; og &#39;HenvendelsesSted&#39;)&#xa;-&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontStyle=0" vertex="1" parent="BryDn_S29HBOlPp6mk95-16">
           <mxGeometry y="30" width="530" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="BryDn_S29HBOlPp6mk95-18" value="Adresse-Relationer" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=none;labelBorderColor=none;fillColor=none;opacity=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1600" y="5920" width="160" height="120" as="geometry" />
+        <mxCell id="BryDn_S29HBOlPp6mk95-18" value="Adresse-Relationer (se tab Adresse-roller)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=none;labelBorderColor=none;fillColor=none;opacity=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1600" y="5920" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="BryDn_S29HBOlPp6mk95-19" value="UUID: Type,&#xa;UUID: Rolle,&#xa;String: Indeks&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=none;labelBorderColor=none;opacity=20;" vertex="1" parent="BryDn_S29HBOlPp6mk95-18">
-          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        <mxCell id="BryDn_S29HBOlPp6mk95-19" value="UUID: Type,&#xa;33614231-0bd0-457d-a85a-df0b9413d08e&#xa;&#xa;UUID: Rolle,&#xa;33614231-0bd0-457d-a85a-df0b9413d08e&#xa;&#xa;String: Indeks&#xa;		Rådhusstræde 3, 1234 Korsbæk&#xa;&#xa;&#xa;&#xa;	&#xa;	&#xa;	&#xa;	&#xa;	&#xa;	&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;	&#xa;	&#xa;&#xa;	&#xa;&#xa;&#xa;&#xa;&#xa;body,div,table,thead,tbody,tfoot,tr,th,td,p { font-family:&quot;Verdana&quot;; font-size:x-small }a.comment-indicator:hover + comment { background:#ffd; position:absolute; display:block; border:1px solid black; padding:0.5em;  }a.comment-indicator { background:red; display:inline-block; border:1px solid black; width:0.5em; height:0.5em;  }comment { display:none;  }&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=none;labelBorderColor=none;opacity=20;" vertex="1" parent="BryDn_S29HBOlPp6mk95-18">
+          <mxGeometry y="30" width="280" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BryDn_S29HBOlPp6mk95-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;entryX=1;entryY=0.457;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BryDn_S29HBOlPp6mk95-18" target="BryDn_S29HBOlPp6mk95-17">
           <mxGeometry relative="1" as="geometry">
