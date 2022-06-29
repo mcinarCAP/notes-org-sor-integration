@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T13:22:01.137Z" agent="5.0 (X11)" etag="A2TGI98Z98MpBY--aPue" version="20.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-29T13:52:21.051Z" agent="5.0 (X11)" etag="x76Hfp1LV_mTlNRSMfeC" version="20.0.3" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2545" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3253" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -258,14 +258,15 @@
         <mxCell id="BryDn_S29HBOlPp6mk95-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1.001;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=30;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BryDn_S29HBOlPp6mk95-9" target="BryDn_S29HBOlPp6mk95-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="2067" y="5282" />
               <mxPoint x="2870" y="5282" />
-              <mxPoint x="2870" y="5669" />
+              <mxPoint x="2870" y="5935" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BryDn_S29HBOlPp6mk95-12" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=30;" parent="BryDn_S29HBOlPp6mk95-11" vertex="1" connectable="0">
           <mxGeometry x="-0.9268" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="75" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BryDn_S29HBOlPp6mk95-13" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=30;" parent="BryDn_S29HBOlPp6mk95-11" vertex="1" connectable="0">
@@ -315,6 +316,24 @@
         <mxCell id="R0TEZhrWBeZtR40oj6BI-1" value="UUID: Type,&#xa;33614231-0bd0-457d-a85a-df0b9413d08e&#xa;&#xa;UUID: Rolle,&#xa;33614231-0bd0-457d-a85a-df0b9413d08e&#xa;&#xa;String: Indeks&#xa;  Rådhusstræde 3, 1234 Korsbæk&#xa;&#xa;&#xa;&#xa; &#xa; &#xa; &#xa; &#xa; &#xa; &#xa;&#xa;&#xa;&#xa;&#xa;&#xa; &#xa; &#xa;&#xa; &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=none;labelBorderColor=none;opacity=20;" vertex="1" parent="R0TEZhrWBeZtR40oj6BI-0">
           <mxGeometry y="30" width="280" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="mmO1RLje2qrxLBeJOL2l-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9vpMVU3OZuSM2iFLc5pq-34" target="9vpMVU3OZuSM2iFLc5pq-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3910" y="1610" />
+              <mxPoint x="3910" y="1410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mmO1RLje2qrxLBeJOL2l-1" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mmO1RLje2qrxLBeJOL2l-0">
+          <mxGeometry x="-0.8616" y="-2" relative="1" as="geometry">
+            <mxPoint x="-46" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mmO1RLje2qrxLBeJOL2l-2" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mmO1RLje2qrxLBeJOL2l-0">
+          <mxGeometry x="0.917" y="8" relative="1" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -323,19 +342,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BOn1pQnp4Og9I8ZbS8wp-1" value="Registrering(se tab Reg)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="BOn1pQnp4Og9I8ZbS8wp-1" value="Registrering(se tab Reg)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="960" y="3740" width="440" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="BOn1pQnp4Og9I8ZbS8wp-2" value="Tidspunkt" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;" vertex="1" parent="BOn1pQnp4Og9I8ZbS8wp-1">
+        <mxCell id="BOn1pQnp4Og9I8ZbS8wp-2" value="Tidspunkt" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;" parent="BOn1pQnp4Og9I8ZbS8wp-1" vertex="1">
           <mxGeometry y="30" width="440" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOn1pQnp4Og9I8ZbS8wp-3" value="BrugerRef" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;" vertex="1" parent="BOn1pQnp4Og9I8ZbS8wp-1">
+        <mxCell id="BOn1pQnp4Og9I8ZbS8wp-3" value="BrugerRef" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;" parent="BOn1pQnp4Og9I8ZbS8wp-1" vertex="1">
           <mxGeometry y="60" width="440" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOn1pQnp4Og9I8ZbS8wp-4" value="LivsCyklus" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;" vertex="1" parent="BOn1pQnp4Og9I8ZbS8wp-1">
+        <mxCell id="BOn1pQnp4Og9I8ZbS8wp-4" value="LivsCyklus" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=15;" parent="BOn1pQnp4Og9I8ZbS8wp-1" vertex="1">
           <mxGeometry y="90" width="440" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOn1pQnp4Og9I8ZbS8wp-5" value="&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;En registrering indeholder altid følgende generelle oplysninger:&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;- Registreringstidspunkt: &lt;i style=&quot;font-size: 15px;&quot;&gt;Registreringstidspunkt registreres automatisk i Fælleskommunalt Organisationssystem, når an-&lt;br style=&quot;font-size: 15px;&quot;&gt;vender sender et opdaterende request.&lt;/i&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;- BrugerReference: &lt;i style=&quot;font-size: 15px;&quot;&gt;På alle registreringer skal Brugerreference udfyldes med &amp;lt;NameID&amp;gt; som fremgår af den ud-&lt;br style=&quot;font-size: 15px;&quot;&gt;stedte token fra Secure Token Service (Fælleskommunal Adgangsstyring for systemer). Herun-&lt;br style=&quot;font-size: 15px;&quot;&gt;der et eksempel på et NameID.&lt;br style=&quot;font-size: 15px;&quot;&gt;SERIALNUMBER=CVR:26911745-FID:37973955 + CN=STS-Admin-01 (funktionscertifikat),&lt;br style=&quot;font-size: 15px;&quot;&gt;O=KMD A/S // CVR:26911745, C=DK&lt;/i&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;-Objektets livscyklus: &lt;i style=&quot;font-size: 15px;&quot;&gt;Hver gang der gemmes en ny registrering, opdateres objektets livscyklus automatisk afhængig&lt;br style=&quot;font-size: 15px;&quot;&gt;af hvilken operation, der foretages. Det er alene i operationerne Importer og Import, at livscy-&lt;br style=&quot;font-size: 15px;&quot;&gt;klus eksplicit skal angives i input. Livscyklus på et forretningsobjekt har betydning for operati-&lt;br style=&quot;font-size: 15px;&quot;&gt;onernes funktion, så derfor vises her en oversigt over de mulige livscyklusser.&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;&lt;i style=&quot;font-size: 15px;&quot;&gt;Den forretningsmæssige betydning af livscyklus er defineret i OIO standarden for sags- og do-&lt;br style=&quot;font-size: 15px;&quot;&gt;kumentområdet.&lt;br style=&quot;font-size: 15px;&quot;&gt;— Oprettet: Data i Fælleskommunalt Organisationssystem er master data.&lt;br style=&quot;font-size: 15px;&quot;&gt;— Importeret: Det er en kopi af data, som findes i Fælleskommunalt Organisationssystem;&lt;br style=&quot;font-size: 15px;&quot;&gt;master data findes i et andet system.&lt;br style=&quot;font-size: 15px;&quot;&gt;— Passiveret: Data kan stadig benyttes, men det vedligeholdes ikke.&lt;br style=&quot;font-size: 15px;&quot;&gt;— Slettet: Data er (logisk) slettet og ikke bør benyttes.&lt;/i&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="BOn1pQnp4Og9I8ZbS8wp-5" value="&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;En registrering indeholder altid følgende generelle oplysninger:&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;- Registreringstidspunkt: &lt;i style=&quot;font-size: 15px;&quot;&gt;Registreringstidspunkt registreres automatisk i Fælleskommunalt Organisationssystem, når an-&lt;br style=&quot;font-size: 15px;&quot;&gt;vender sender et opdaterende request.&lt;/i&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;- BrugerReference: &lt;i style=&quot;font-size: 15px;&quot;&gt;På alle registreringer skal Brugerreference udfyldes med &amp;lt;NameID&amp;gt; som fremgår af den ud-&lt;br style=&quot;font-size: 15px;&quot;&gt;stedte token fra Secure Token Service (Fælleskommunal Adgangsstyring for systemer). Herun-&lt;br style=&quot;font-size: 15px;&quot;&gt;der et eksempel på et NameID.&lt;br style=&quot;font-size: 15px;&quot;&gt;SERIALNUMBER=CVR:26911745-FID:37973955 + CN=STS-Admin-01 (funktionscertifikat),&lt;br style=&quot;font-size: 15px;&quot;&gt;O=KMD A/S // CVR:26911745, C=DK&lt;/i&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;-Objektets livscyklus: &lt;i style=&quot;font-size: 15px;&quot;&gt;Hver gang der gemmes en ny registrering, opdateres objektets livscyklus automatisk afhængig&lt;br style=&quot;font-size: 15px;&quot;&gt;af hvilken operation, der foretages. Det er alene i operationerne Importer og Import, at livscy-&lt;br style=&quot;font-size: 15px;&quot;&gt;klus eksplicit skal angives i input. Livscyklus på et forretningsobjekt har betydning for operati-&lt;br style=&quot;font-size: 15px;&quot;&gt;onernes funktion, så derfor vises her en oversigt over de mulige livscyklusser.&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;&lt;i style=&quot;font-size: 15px;&quot;&gt;Den forretningsmæssige betydning af livscyklus er defineret i OIO standarden for sags- og do-&lt;br style=&quot;font-size: 15px;&quot;&gt;kumentområdet.&lt;br style=&quot;font-size: 15px;&quot;&gt;— Oprettet: Data i Fælleskommunalt Organisationssystem er master data.&lt;br style=&quot;font-size: 15px;&quot;&gt;— Importeret: Det er en kopi af data, som findes i Fælleskommunalt Organisationssystem;&lt;br style=&quot;font-size: 15px;&quot;&gt;master data findes i et andet system.&lt;br style=&quot;font-size: 15px;&quot;&gt;— Passiveret: Data kan stadig benyttes, men det vedligeholdes ikke.&lt;br style=&quot;font-size: 15px;&quot;&gt;— Slettet: Data er (logisk) slettet og ikke bør benyttes.&lt;/i&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="945" y="3890" width="810" height="410" as="geometry" />
         </mxCell>
       </root>
@@ -410,6 +429,56 @@
         <mxCell id="2-WoKqvk6XIOdD6jPG43-19" value="KLE-emner inden for hvilke en OrganisationEnhed der f.eks. behandler og afgør sager. Den ud-&lt;br&gt;førende OrganisationEnhed er typisk en specialiseret, underordnet enhed, som f.eks. modtager&lt;br&gt;indgående post fra en overordnet enhed." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" vertex="1" parent="2-WoKqvk6XIOdD6jPG43-17">
           <mxGeometry x="520" width="520" height="133" as="geometry">
             <mxRectangle width="520" height="133" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0pQXQTFnPIJDvA79HRqH" name="KLE EnhedType">
+    <mxGraphModel dx="2062" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r5B4LTRIsRL4Kur1sEvY-1" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="80" y="70" width="570" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="r5B4LTRIsRL4Kur1sEvY-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="r5B4LTRIsRL4Kur1sEvY-1">
+          <mxGeometry width="570" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="r5B4LTRIsRL4Kur1sEvY-3" value="&lt;b&gt;EnhedsType&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="r5B4LTRIsRL4Kur1sEvY-2">
+          <mxGeometry width="285" height="170" as="geometry">
+            <mxRectangle width="285" height="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r5B4LTRIsRL4Kur1sEvY-4" value="&lt;b&gt;Afdeling&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="r5B4LTRIsRL4Kur1sEvY-2">
+          <mxGeometry x="285" width="285" height="170" as="geometry">
+            <mxRectangle width="285" height="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r5B4LTRIsRL4Kur1sEvY-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=left;" vertex="1" parent="r5B4LTRIsRL4Kur1sEvY-1">
+          <mxGeometry y="170" width="570" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="r5B4LTRIsRL4Kur1sEvY-7" value="Afdeling" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="r5B4LTRIsRL4Kur1sEvY-6">
+          <mxGeometry width="285" height="170" as="geometry">
+            <mxRectangle width="285" height="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r5B4LTRIsRL4Kur1sEvY-8" value="En afdeling udgør en organisatorisk enhed i kommunen, der har ansvar for specifikke dele af&lt;br&gt;den kommunale forvaltning. I forbindelse med den kommunale sagsbehandling vil en afdeling&lt;br&gt;typisk være ansvarlig for håndtering af sagen (Ansvarlig afdeling). Alle kommuner benytter&lt;br&gt;begrebet &quot;Afdeling&quot;. Anvendes af DUBU." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" vertex="1" parent="r5B4LTRIsRL4Kur1sEvY-6">
+          <mxGeometry x="285" width="285" height="170" as="geometry">
+            <mxRectangle width="285" height="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r5B4LTRIsRL4Kur1sEvY-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="r5B4LTRIsRL4Kur1sEvY-1">
+          <mxGeometry y="340" width="570" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="r5B4LTRIsRL4Kur1sEvY-11" value="Team" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="r5B4LTRIsRL4Kur1sEvY-10">
+          <mxGeometry width="285" height="170" as="geometry">
+            <mxRectangle width="285" height="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r5B4LTRIsRL4Kur1sEvY-12" value="&lt;div align=&quot;left&quot;&gt;Et team udgør en organisatorisk enhed i kommunen, som typisk forvalter specifikke opgaver.&lt;br&gt;F.eks. kan der være et team af sagsbehandlere der er specialiseret i handicapsager. Et team kan arbejde på tværs af flere afdelinger. Organisatoriske enheder for Team og Afdeling er der-&lt;br&gt;for ofte sideordnede i organisationen. Definitionen af &quot;Team&quot; kan afvige fra kommune til kom-&lt;br&gt;mune, og nogle kommuner benytter ikke Team begrebet. Anvendes af DUBU.&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="r5B4LTRIsRL4Kur1sEvY-10">
+          <mxGeometry x="285" width="285" height="170" as="geometry">
+            <mxRectangle width="285" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
