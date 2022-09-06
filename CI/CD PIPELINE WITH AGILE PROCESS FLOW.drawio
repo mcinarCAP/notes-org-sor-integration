@@ -1,1 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T19:47:53.172Z" agent="5.0 (X11)" version="20.0.4" etag="ELmxSO57sBXax5lQ2u1w" type="github"><diagram id="puGdRi2wfpQMCn4phkKa">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-06T20:43:48.606Z" agent="5.0 (X11)" etag="bsp0TAGEEu0iI0FIJaVa" version="20.0.4" type="github">
+  <diagram id="puGdRi2wfpQMCn4phkKa" name="Page-1">
+    <mxGraphModel dx="2062" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-1" value="&lt;b&gt;&lt;b&gt;STORY &lt;/b&gt;ORGSOR-09:&lt;br&gt;GODKEND FORSLAG&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="50" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ztAKuxFaFSL-5r5i7xLI-2" target="ztAKuxFaFSL-5r5i7xLI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-8" value="&lt;div align=&quot;left&quot;&gt;&lt;u&gt;PR Check:&lt;/u&gt;&lt;br&gt;1. Review&lt;br&gt;2. unit test&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ztAKuxFaFSL-5r5i7xLI-7">
+          <mxGeometry x="0.2539" y="-4" relative="1" as="geometry">
+            <mxPoint x="1" y="-46" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-2" value="ORGSOR-01: feature/web-godkend-forslag" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-3" value="ORGSOR-02: feature/synkroniser-godkend-forslag" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="710" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-4" value="ORGSOR-03: feature/org-godkend-forslag" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="840" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-5" value="ORGSOR-04: feature/web-godkend-forslag" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="950" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-10" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ztAKuxFaFSL-5r5i7xLI-6" target="ztAKuxFaFSL-5r5i7xLI-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="263" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="538" y="190" />
+              <mxPoint x="730" y="190" />
+              <mxPoint x="730" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-11" value="a) software team&lt;br&gt;test &amp;amp; evaluation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ztAKuxFaFSL-5r5i7xLI-10">
+          <mxGeometry x="-0.6111" y="1" relative="1" as="geometry">
+            <mxPoint x="53" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ztAKuxFaFSL-5r5i7xLI-6" target="ztAKuxFaFSL-5r5i7xLI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-23" value="&lt;div align=&quot;left&quot;&gt;b) Manual D or CD&lt;br&gt;c) Automated Integration Test&lt;br&gt;d) Validation Gate: &lt;br&gt;if success, then go next,&lt;br&gt;else: roll back.&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ztAKuxFaFSL-5r5i7xLI-22">
+          <mxGeometry x="-0.3733" y="4" relative="1" as="geometry">
+            <mxPoint x="63" y="42" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-6" value="Dev" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="245" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-12" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ztAKuxFaFSL-5r5i7xLI-14" target="ztAKuxFaFSL-5r5i7xLI-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="263.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="898" y="210" />
+              <mxPoint x="1050" y="210" />
+              <mxPoint x="1050" y="246" />
+              <mxPoint x="910" y="246" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-13" value="a) QA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ztAKuxFaFSL-5r5i7xLI-12">
+          <mxGeometry x="-0.6111" y="1" relative="1" as="geometry">
+            <mxPoint x="-14" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ztAKuxFaFSL-5r5i7xLI-14" target="ztAKuxFaFSL-5r5i7xLI-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-26" value="b) Manual D" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ztAKuxFaFSL-5r5i7xLI-25">
+          <mxGeometry x="0.25" y="-2" relative="1" as="geometry">
+            <mxPoint x="18" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-14" value="Test" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="880" y="245.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-15" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ztAKuxFaFSL-5r5i7xLI-17" target="ztAKuxFaFSL-5r5i7xLI-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1380" y="260.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1298" y="190" />
+              <mxPoint x="1450" y="190" />
+              <mxPoint x="1450" y="248" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-16" value="a) Pilot Test" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ztAKuxFaFSL-5r5i7xLI-15">
+          <mxGeometry x="-0.6111" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ztAKuxFaFSL-5r5i7xLI-17" target="ztAKuxFaFSL-5r5i7xLI-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-28" value="b) Manual D" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ztAKuxFaFSL-5r5i7xLI-27">
+          <mxGeometry x="0.2415" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-17" value="Pilot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="242.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ztAKuxFaFSL-5r5i7xLI-20" value="Prod" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="240" width="35" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
